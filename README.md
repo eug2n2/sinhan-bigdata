@@ -6,7 +6,7 @@
 
 ## 주제 선정 배경
 ![image](https://github.com/eug2n2/sinhan-bigdata/assets/107859104/278c68a9-cde7-4fcd-891e-95261b44ff34)
-
+---
 ![image](https://github.com/eug2n2/sinhan-bigdata/assets/107859104/db039523-fd85-4998-b0f1-3d9d6522fc58)
 
 ## 문제 해결 아이디어
@@ -14,18 +14,18 @@
 
 ## 데이터 전처리 
 ![image](https://github.com/eug2n2/sinhan-bigdata/assets/107859104/fa0156e1-4900-4756-bc0a-8b51f898ab05)
-
+---
 ![image](https://github.com/eug2n2/sinhan-bigdata/assets/107859104/f667bee0-64b9-4e77-ba5c-16706b61e0fd)
-
+---
 ![image](https://github.com/eug2n2/sinhan-bigdata/assets/107859104/6ec23ce5-e3e0-486d-a79e-fe70ecbda816)
-
+---
 ![image](https://github.com/eug2n2/sinhan-bigdata/assets/107859104/51bd1468-9892-4fee-a0ba-b7b49c491765)
-
+---
 ![image](https://github.com/eug2n2/sinhan-bigdata/assets/107859104/8eae7f09-0c57-4f8a-93c0-12f94490eb1a)
 
 ### 환경변수 산출 방법
 ![image](https://github.com/eug2n2/sinhan-bigdata/assets/107859104/184dbdf0-848e-44df-a15a-e3d08435f326)
-
+---
 ![image](https://github.com/eug2n2/sinhan-bigdata/assets/107859104/a87b0408-9a02-49fd-b728-5dafc87a5edb)
 
 ## 데이터 분석
@@ -35,14 +35,21 @@
 의사결정 트리 선택 시 과적합 발생하여 예측 성능 저하의 우려가 있어 결정 트리의 단점을 보완한 부스팅 기반 모델 Light GBM을 선택하여 사용 
 
 ![image](https://github.com/eug2n2/sinhan-bigdata/assets/107859104/ad26a24b-0e00-4994-a72f-8f25932143e0)
-
+---
 ![image](https://github.com/eug2n2/sinhan-bigdata/assets/107859104/4a9576eb-bbe0-4daa-a235-070cf4d77943)
 
 ## 서비스 구현
-카드 홈페이지 UI/UX 구현 
-![image](https://github.com/eug2n2/sinhan-bigdata/assets/107859104/74746b77-2d83-4be4-958a-e2f371184c25)
-MZ세대를 위한 심리테스트 웹사이트 구현 
+
+### MZ세대를 위한 심리테스트 웹사이트 구현 
 ![image](https://github.com/eug2n2/sinhan-bigdata/assets/107859104/0b05e0ac-c77b-431e-bc87-1d7d2da8566c)
+
+### 카드 홈페이지 UI/UX 구현 
+![image](https://github.com/eug2n2/sinhan-bigdata/assets/107859104/74746b77-2d83-4be4-958a-e2f371184c25)
+
+### 카드 등급 4가지 
+![image](https://github.com/eug2n2/sinhan-bigdata/assets/107859104/998ca71d-3f41-4464-9405-07f1f2058d08)
+---
+![image](https://github.com/eug2n2/sinhan-bigdata/assets/107859104/1c7298a4-587a-410f-b9a7-f14bb2b1f798)
 
 배포된 주소 : https://minjung-sys.github.io/Shinconghae/
 
